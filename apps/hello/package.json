@@ -1,0 +1,12 @@
+{
+   "user": "marak",
+   "name": "test",
+   "domain": "devjitsu.com",
+   "repository": {
+     "type": "git",
+     "url": "https://github.com/Marak/hellonode.git"
+   },
+   "scripts": {
+     "start": "server.js"
+   }
+}

@@ -1,0 +1,17 @@
+  {
+     "user": "Romain",
+     "resource": "App",
+     "name": "chat",
+     "subdomain":"test",
+     "directories": {
+       "home": "node-chat"
+     },
+     "repository": {
+       "type": "git",
+       "url": "https://github.com/scottgonzalez/node-chat.git",
+       "branch": "master"
+     },
+     "scripts": {
+       "start": "demo/chat.js"
+     }
+  }
