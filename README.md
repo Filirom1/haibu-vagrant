@@ -1,7 +1,7 @@
 An Haibu VM, the fist step to the cloud !
 =========================================
 
-Do you want to test [haibu](https://github.com/nodejitsu/haibu) ? In a VM ?
+Do you want to test [haibu](https://github.com/nodejitsu/haibu) in a VM ?
 
 Or simply to create a lot of VMs to deploy your node-js apps easily?
 
@@ -15,7 +15,7 @@ haibu in a VM simply by executing those command lines :
     $ gem install vagrant
     $ vagrant box add base http://files.vagrantup.com/lucid32.box
     $ git clone https://github.com/Filirom1/haibu-vagrant.git haibu-vagrant
-    $ cd haibu-vagran
+    $ cd haibu-vagrant
     $ vagrant up
 
 Now vagrant will install nodejs, npm, git and haibu on the VM.
