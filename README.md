@@ -1,4 +1,4 @@
-An Haibu VM, the fist step to the cloud !
+An Haibu VM, the first step to the cloud !
 =========================================
 
 Do you want to test [haibu](https://github.com/nodejitsu/haibu) in a VM ?
